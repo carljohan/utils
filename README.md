@@ -2,6 +2,8 @@
 
 commonly used tools by me - [see functions](./src/index.ts)
 
+`@carljohan/utils` @ [https://jsr.io/@carljohan/utils](https://jsr.io/@carljohan/utils`)
+
 ## Installation
 
 ```bash
